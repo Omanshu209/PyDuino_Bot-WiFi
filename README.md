@@ -30,7 +30,7 @@ The following components are required in order to make the robot:
 - Upload the 'ESP32_MAIN.ino' file available in the ESP32 folder to the ESP-32 CAM trough UART connection
 (Upload using the Arduino IDE in windows or the Arduino Droid app in android)
 ```
-## Curcuit
+## Circuit
 ```
 - Connect the wheels to the motors
 - Connect the OV2680 Camera Module to the ESP-32 CAM
